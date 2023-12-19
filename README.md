@@ -23,7 +23,7 @@ To use the Weather Web App locally, follow these steps:
 git clone https://github.com/Gibrail404/To-do-list.git
 
 ## Demo
-You can view a live demo of the To do list click here.
+You can view a live demo of the To do list [click here](https://gibrail404.github.io/To-do-list/).
 
 ## License
 
